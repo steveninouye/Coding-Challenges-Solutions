@@ -7,7 +7,6 @@ Software Engineer & Mentor
 Born and raised in Hilo, Hawaii
 Prior Air Force and Food, Beverage, and Hospitality
 [LinkedIn](https://www.linkedin.com/in/steveninouye/)
-[Portfolio](https://www.iamsteveni.com/)
 
 ## [Leetcode](https://leetcode.com)
 
