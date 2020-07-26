@@ -11,15 +11,22 @@ Prior Air Force and Food, Beverage, and Hospitality worker
 #103 Binary Tree Zigzag Level Order Traversal
 [challenge](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |
 [solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/Binary_Tree_Zigzag_Level_Order_Traversal)
+[video](https://youtu.be/ZH_RTdmcf00)
+
+#258 Add Digits
+[challenge](https://leetcode.com/problems/add-digits/) |
+[solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/Add_Digits)
+[video](https://youtu.be/Ve8RBp-VxLQ)
 
 #260 Single Number III
 [challenge](https://leetcode.com/problems/single-number-iii/) |
 [solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/Single_Number_III)
+[video](https://youtu.be/2tjtzfykr-8)
 
 #797 All Paths From Source to Target
 [challenge](https://leetcode.com/problems/all-paths-from-source-to-target/) |
 [solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/All_Paths_From_Source_to_Target)
-
+[video](https://youtu.be/kUlSmxK8wVM)
 
 ## [Codewars](https://www.codewars.com)
 
