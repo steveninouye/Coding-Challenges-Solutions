@@ -21,7 +21,7 @@ Prior Air Force and Food, Beverage, and Hospitality worker
 #260 Single Number III
 [challenge](https://leetcode.com/problems/single-number-iii/) |
 [solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/Single_Number_III)
-[video](https://youtu.be/2tjtzfykr-8)
+[video](https://youtu.be/0G0gYWgcaT0)
 
 #797 All Paths From Source to Target
 [challenge](https://leetcode.com/problems/all-paths-from-source-to-target/) |
