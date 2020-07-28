@@ -13,6 +13,11 @@ Prior Air Force and Food, Beverage, and Hospitality worker
 [solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/Binary_Tree_Zigzag_Level_Order_Traversal)
 [video](https://youtu.be/ZH_RTdmcf00)
 
+#106 Construct Binary Tree from Inorder and Postorder Traversal
+[challenge](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
+[solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal)
+[video](https://youtu.be/mD3OxK9GkoE)
+
 #258 Add Digits
 [challenge](https://leetcode.com/problems/add-digits/) |
 [solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/Add_Digits)
@@ -27,6 +32,8 @@ Prior Air Force and Food, Beverage, and Hospitality worker
 [challenge](https://leetcode.com/problems/all-paths-from-source-to-target/) |
 [solution](https://github.com/steveninouye/Coding-Challenges-Solutions/tree/master/Leetcode/All_Paths_From_Source_to_Target)
 [video](https://youtu.be/kUlSmxK8wVM)
+
+
 
 ## [Codewars](https://www.codewars.com)
 
